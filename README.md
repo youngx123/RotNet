@@ -11,5 +11,6 @@ pytorch implement RoteNet
 
 
 
-数据下载以及项目参考：
+数据下载以及参考：
+>https://d4nst.github.io/2017/01/12/image-orientation/
 >https://github.com/d4nst/RotNet
